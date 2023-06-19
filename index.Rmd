@@ -1,7 +1,7 @@
 ---
-title: "Lessons from career"
+title: "Lessons from sports"
 output: slidy_presentation
-date: "2023-05-08"
+date: "2023-06-20"
 author: "Sanjid Rahman"
 ---
 
@@ -9,28 +9,18 @@ author: "Sanjid Rahman"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Job vs career
+## Plato on sports
 
-## Teaching
+## Football
 
-- Confident but approachable
-- Demonstrate by relating
-- Let go and enjoy success
+- Passing
+- Must show up
 
-## Debating
+## Swimming
 
-- Discourse comes from listening too
-- Compete as a team
-- Secret is food
+- Technique not only persistence
 
-## Programming
+## Badminton
 
-- Perfect position for process
-- Ask not for me but for us
-- Grit in dev, debug and refactor
+- Stance
 
-## Refereeing
-
-- Think off the feet
-- Resilience from critical feedback
-- Separation of involvement
