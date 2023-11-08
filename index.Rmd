@@ -1,26 +1,45 @@
 ---
-title: "Lessons from sports"
-output: slidy_presentation
-date: "2023-06-20"
+title: "Lateral Thinking and Toastmasters"
 author: "Sanjid Rahman"
+date: "2023-11-09"
+output:
+  ioslides_presentation: default
+  slidy_presentation: default
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Plato on sports
+# Lateral 
 
-## Football
+## Prodigy vs 
 
-- Passing
-- Must show up
+- Kind vs Wicked learning environment
 
-## Swimming
+## Lateral Thinking with Withered Technology 
 
-- Technique not only persistence
+- Gunpei Yokoy
+- Cheap and well understood technology
+	- Sharp LCD
+- Fun use case
+  	- Gaming
 
-## Badminton
+## Impact of Gunpei
 
-- Stance
+- Nintendo Gameboy vs Sega Gamegear
+	- 8bit Sharp CPU
+	- Monochrome screen
+- $95 million in the first quarter 
 
+# Toastmaster Roles
+
+## Speaker
+
+- Blogger
+  	- Influencer, comedian, founder
+- Free platform
+
+## General Evaluator
+
+- 
