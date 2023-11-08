@@ -1,38 +1,57 @@
 ---
-title: "Lateral Thinking and Toastmasters"
+title: "Lateral Thinking with Toastmasters"
 format: revealjs
 editor: visual
 ---
 
-# Lateral 
+# Lateral vs Linear
 
-## Prodigy vs 
+## Prodigy and specialists?
 
-- Kind vs Wicked learning environment
+-   David Epstein: Range
+-   Kind learning environment
+    -   clear rules where tasks don't change
+-   Wicked learning environment
+    -   unclear rules with delayed inaccurate feedback
 
-## Lateral Thinking with Withered Technology 
+## Lateral Thinking with Withered Technology
 
-- Gunpei Yokoy
-- Cheap and well understood technology
-	- Sharp LCD
-- Fun use case
-  	- Gaming
+-   Gunpei Yokoy
+-   Cheap and well understood technology
+    -   Sharp LCD
+-   Fun use case
+    -   Gaming
 
 ## Impact of Gunpei
 
-- Nintendo Gameboy vs Sega Gamegear
-	- 8bit Sharp CPU
-	- Monochrome screen
-- $95 million in the first quarter 
+-   Nintendo from being playing card company
+-   Nintendo Gameboy vs Sega Gamegear
+    -   8bit Sharp CPU
+    -   Monochrome screen
+-   \$95 million in the first quarter
 
-# Toastmaster Roles
+# (Withered) Toastmaster Roles
 
 ## Speaker
 
-- Blogger
-  	- Influencer, comedian, founder
-- Free platform
+-   The Creator
+-   Influencer, comedian, entrepreneur
+-   Original thinker getting a free platform
 
-## General Evaluator
+## Evaluators
 
-- 
+-   The Manager
+-   Interviewer, the recruiter
+-   Learn to be an authentic communicator
+
+## Toastmaster
+
+-   The Motivator
+-   CEO, good cop
+-   Learn to be the silent leader
+
+## Table topics master
+
+-   The Surveyer\
+-   Project / product manager
+-   Learn how your queries are perceived
